@@ -1,0 +1,12 @@
+
+output.csv:
+
+['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Florida', 'Georgia', 'Idaho', 'Illinois', 'Indiana', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Mississippi', 'Nevada', 'New Hampshire', 'New Mexico', 'New York', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Utah', 'Washington', 'West Virginia', 'Wisconsin']
+
+
+submission.csv:
+['Connecticut', 'Delaware', 'Kansas', 'Massachusetts', 'Michigan', 'Minnesota', 'Missouri', 'Nebraska', 'North Dakota', 'Ohio', 'Vermont', 'Wyoming']
+
+
+submission_tuning.csv:
+['Colorado', 'Hawaii', 'Iowa', 'Montana', 'New Jersey', 'North Carolina', 'Tennessee', 'Texas', 'Virginia']
